@@ -1,7 +1,7 @@
 {
   "licenses": {
     "TANJU-001": {
-      "active": false,
+      "active": true,
       "machine_id": "e3cffbfec67a45d7dac0000845ed28b159271a9a4219d8e295556d15e708c395"
     },
     "TANJU-002": {
