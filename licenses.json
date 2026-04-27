@@ -7,6 +7,10 @@
     "TANJU-002": {
       "active": true,
       "machine_id": "9c86c7962f76b77373bbeacb0dd8590cb8014f35f1d7dbfdcf87cf4a3d4cfd6b"
+    },
+    "NFA-001": {
+      "active": true,
+      "machine_id": "e3cffbfec67a45d7dac0000845ed28b159271a9a4219d8e295556d15e708c395"
     }
   }
 }
