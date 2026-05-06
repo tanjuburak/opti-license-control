@@ -11,6 +11,10 @@
     "NFA-001": {
       "active": true,
       "machine_id": "2614f36b0255b65e667e52934f4cabc480cd9da04ca79899629b31af5b910310"
+    },
+    "BURAK": {
+      "active": true,
+      "machine_id": "6bc5eb51509aa8d570c0f97ab1c26baecf7847e468c26d75b5afc95b5ccba6e5"
     }
   }
 }
